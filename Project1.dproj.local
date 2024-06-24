@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.507,C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\TestToSend.pas=C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\TestTask\TestToSend.pas=C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\TestToSend.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,=C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.264,C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\TestTask\Project1.dproj=C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\TestTask\Unit1.dfm=C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,E:\Downloads\TestToSend.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,=E:\Downloads\TestToSend.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\TestTask\Unit1.pas=C:\Users\kosva\OneDrive\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
